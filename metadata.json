@@ -1,0 +1,7 @@
+{
+  "name": "SmartGrader AI",
+  "description": "An intelligent exam grading application that uses AI to recognize answer sheets, extract student selections, and automatically calculate scores based on a provided answer key.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
